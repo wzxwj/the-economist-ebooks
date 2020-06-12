@@ -9,6 +9,12 @@
 进入杂志的某一期中, 点击以 `mobi` 或者 `epub`结尾的文件, 进入类似于如下所示的页面 [TheEconomist_2018-12-29.mobi](https://github.com/hehonghui/the-economist-ebooks/blob/master/01_economist/te_2018-12-29/TheEconomist_2018-12-29.mobi), 然后点击右边的 `download` 按钮进行下载.
 
 
+## 阅读器说明
+
+1. epub 格式的电子书可以安装 [多看阅读](https://www.duokan.com/product) ,  通过 `wifi传书功能` 通过浏览器将电子书传入到阅读器中, 然后就可以进行阅读;
+2. mobi 格式的电子书需要使用 `kindle设备` 或者在电脑上安装 [kindle 阅读app](https://www.amazon.cn/kindle-dbs/fd/kcp/ref=sv_kinc_0)
+
+
 ## 免费订阅
 
 * 1. 获取到kindle设备的email地址, 登录到[亚马逊网站](https://www.amazon.cn/hz/mycd/myx#/home/devices/), 通过 `"我的账户" -> "管理我的内容和设备
