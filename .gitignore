@@ -4,4 +4,5 @@
 *.bk
 *.py
 *.txt
+bk/
 @eaDir/
