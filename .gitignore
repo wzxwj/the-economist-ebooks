@@ -5,4 +5,5 @@
 *.py
 *.txt
 bk/
+*.swp
 @eaDir/
