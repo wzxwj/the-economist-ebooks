@@ -20,9 +20,10 @@
 <img src="https://img-blog.csdnimg.cn/20200412132734488.JPG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Jib3lmZWl5dQ==,size_16,color_FFFFFF,t_70" width="200"/>
 
 
+-------------------------------------
 ## 四、免费订阅
 
-> 通过订阅服务每周会自动将杂志推送到kindle阅读器 或者 邮箱中, 避免手动下载的麻烦操作. 
+> 通过订阅服务每周会自动将杂志推送到kindle阅读器 或者 邮箱中, 避免手动下载的麻烦操作.     
 > 订阅服务可能不会一直稳定，但是会尽量为大家提供免费服务.
 
 
