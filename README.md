@@ -11,8 +11,10 @@
 ## 二、打赏 - JUST FOR FUN
 
 1. 有钱的捧个钱场，没钱的捧个人场。各位壕友可以通过如下二维码打赏      
-<img src="https://img-blog.csdnimg.cn/20200412132734488.JPG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Jib3lmZWl5dQ==,size_16,color_FFFFFF,t_70" width="200"/>
 
+|   支付宝   |   微信    |
+|------------|-----------|
+|<img src="https://img-blog.csdnimg.cn/20200412132734488.JPG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Jib3lmZWl5dQ==,size_16,color_FFFFFF,t_70" width="200"/>| <img src="https://img-blog.csdnimg.cn/20200911174255577.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Jib3lmZWl5dQ==,size_16,color_FFFFFF,t_70" width="200"/>  |
 
 ## 三、阅读器说明
 
