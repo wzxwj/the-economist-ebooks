@@ -6,7 +6,7 @@
 
 ## 一、如何手动下载
 
-进入杂志的某一期中, 例如点击上面的 `01_economist`,再点击进入某一期目录 (通常最新的杂志在网页最下面), 点击以 `mobi` 或者 `epub`结尾的文件, 进入类似于如下所示的页面 [TheEconomist_2018-12-29.mobi](https://github.com/hehonghui/the-economist-ebooks/blob/master/01_economist/2018/te_2018-12-29/TheEconomist_2018-12-29.mobi), 然后点击右边的 `download` 按钮进行下载.
+进入杂志的某一期中, 例如点击上面的 [01_economist](01_economist/), 再点击进入某一期目录 (通常最新的杂志在网页最下面), 点击以 `mobi` 或者 `epub`结尾的文件, 进入类似于如下所示的页面 [TheEconomist_2018-12-29.mobi](https://github.com/hehonghui/the-economist-ebooks/blob/master/01_economist/2018/te_2018-12-29/TheEconomist_2018-12-29.mobi), 然后点击右边的 `download` 按钮进行下载.
 
 ## 二、打赏 - JUST FOR FUN
 
