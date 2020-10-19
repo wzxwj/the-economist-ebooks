@@ -40,5 +40,5 @@ If you don’t use your Kindle as a reading device, you can also get the e-magaz
 A sample email format is as follows:
 
 ```
-sSubscription to The Economist: your email address, epub or mobi.
+Subscription to The Economist: your email address, epub or mobi.
 ```
