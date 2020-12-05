@@ -28,7 +28,7 @@
 
 > 订阅服务可能不稳定，但是会尽量为大家提供免费服务.
 
-1. `kindle设备订阅杂志推送` : 每周将mobi格式的电子书推送到kindle设备或者kindle阅读app
+1. `kindle设备订阅杂志推送` : 每周将mobi格式的电子书推送到`kindle阅读器`或者`kindle阅读app`
 2. `邮箱订阅`: 每周将指定格式的杂志发送到你订阅的邮箱，避免手动下载;
 
 需要订阅的同学请移步[www.economist.cool](http://economist.cool/).
