@@ -5,6 +5,8 @@
 *.py
 *.txt
 bk/
+*.swn
+*.swo
 *.swp
 images/
 @eaDir/
