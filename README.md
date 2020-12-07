@@ -7,7 +7,7 @@
 * [纽约客 - 周刊, 点击这里下载最新一期](02_new_yorker/2020.12.04) , 每周六上午更新, 支持订阅.
 * [Nature - 周刊](03_nature), 每周六下午更新, 支持订阅
 * [New Scientitst(新科学人) - 周刊](06_new_scientist/), 每周一更新
-* [Scientific American - 周刊](07_scientific_american), 每周二更新
+* [Scientific American - 月刊](07_scientific_american), 每月25号更新
 * [The Atlantic - 月刊](04_atlantic), 每月2号更新
 * [Wired - 月刊](05_wired), 每月2号更新
 
