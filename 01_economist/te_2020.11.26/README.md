@@ -4,6 +4,10 @@
 * [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2020.11.26/TheEconomist.2020.11.26.mobi) 
 * [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2020.11.26/TheEconomist.2020.11.26.epub)
 * [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2020.11.26/TheEconomist.2020.11.26.pdf)
+
+## 音频下载
+
+* [音频下载](https://github.com/hehonghui/the-economist-ebooks/wiki/te_audios_2020)
     
 ## 二、打赏 - JUST FOR FUN
 > * 打赏一杯咖啡, 金额随意,感谢大家~ :)
