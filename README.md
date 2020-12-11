@@ -10,7 +10,7 @@
 * [Scientific American - 月刊](07_scientific_american), 每月25号更新
 * [The Atlantic - 月刊](04_atlantic), 每月2号更新
 * [Wired - 月刊](05_wired), 每月2号更新
-* [哈佛商业评论2020年全集](./Harvard-Business-Review-USA–2020-Full-Year-Collection)
+* [哈佛商业评论2020年全集](./Harvard-Business-Review-USA-2020-Full-Year-Collection)
 
 **如何选择杂志 ? 请参考下面两篇文章**
 
