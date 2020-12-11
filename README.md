@@ -11,6 +11,11 @@
 * [The Atlantic - 月刊](04_atlantic), 每月2号更新
 * [Wired - 月刊](05_wired), 每月2号更新
 
+**如何选择杂志 ? 请参考下面两篇文章**
+
+* [考研英语题源分析，看看题目来自于哪里](https://zhuanlan.zhihu.com/p/25051680)
+* [2018英语外刊大合集](https://zhuanlan.zhihu.com/p/54181221)
+
 [te_audio]: https://github.com/hehonghui/the-economist-ebooks/wiki/te_audios_2020
 
 ## 一、如何手动下载
