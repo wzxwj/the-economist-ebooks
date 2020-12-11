@@ -11,6 +11,7 @@
 * [The Atlantic - 月刊](04_atlantic), 每月2号更新
 * [Wired - 月刊](05_wired), 每月2号更新
 * [哈佛商业评论2020年全集](./Harvard-Business-Review-USA-2020-Full-Year-Collection)
+* [国家地理(美国) - 2020年全集](./National-Geographic-USA-2020-Full-Year/)
 
 **如何选择杂志 ? 请参考下面两篇文章**
 
