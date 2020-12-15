@@ -10,3 +10,5 @@ bk/
 *.swp
 images/
 @eaDir/
+*.gz
+*.shell
