@@ -11,3 +11,4 @@ bk/
 images/
 @eaDir/
 *.gz
+*.shell
