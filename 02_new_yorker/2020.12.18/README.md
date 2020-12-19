@@ -5,9 +5,7 @@
 * [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/02_new_yorker/2020.12.18/new_yorker.2020.12.18.epub)
 * [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/02_new_yorker/2020.12.18/new_yorker.2020.12.18.pdf)
     
-## 音频下载
 
-* [音频下载](https://github.com/hehonghui/the-economist-ebooks/wiki/te_audios_2020)
 ## 二、打赏 - JUST FOR FUN
 > * 打赏一杯咖啡, 金额随意,感谢大家~ :)
     
