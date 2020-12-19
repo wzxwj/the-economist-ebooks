@@ -12,3 +12,4 @@ images/
 @eaDir/
 *.gz
 *.shell
+*.crdownload
