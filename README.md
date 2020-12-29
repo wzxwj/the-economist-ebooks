@@ -6,6 +6,7 @@
 
 * [经济学人 - 周刊, 点击这里下载最新一期](01_economist/te_2020.12.19) , 每周五十一点更新, 支持<a href="#subscribe">订阅</a>. 下载音频请移步到[这里][te_audio] 
 * [纽约客 - 周刊, 点击这里下载最新一期](02_new_yorker/2020.12.28) , 每周六上午更新, 支持订阅.
+* [卫报 - 每周两期](09_guardian/), 每周三、周日更新, 支持<a href="#subscribe">订阅</a>. 
 * [Nature - 周刊](03_nature), 每周六下午更新, 支持订阅
 * [New Scientitst(新科学人) - 周刊](06_new_scientist/), 每周日上午更新
 * [Newsweek - 新闻周刊](./08_newsweek), 每周日更新
