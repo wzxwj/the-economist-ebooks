@@ -4,7 +4,7 @@
 ---------------------
 [官网地址 - www.emagazines.site](https://emagazines.site/?utm_source=github&utm_medium=github&utm_campaign=github), 另外`经济学人2020年52期`已出,[打包资源请点击这里](https://emagazines.site/te_2020)
 
-* [经济学人 - 周刊, 点击这里下载最新一期](01_economist/te_2021.01.03) , 每周五十一点更新, 支持<a href="#subscribe">订阅</a>. 下载音频请移步到[这里][te_audio] 
+* [经济学人 - 周刊, 点击这里下载最新一期](01_economist/te_2021.01.02) , 每周五十一点更新, 支持<a href="#subscribe">订阅</a>. 下载音频请移步到[这里][te_audio] 
 * [纽约客 - 周刊, 点击这里下载最新一期](02_new_yorker/2020.12.28) , 每周六上午更新, 支持订阅.
 * [卫报 - 每周两期](09_guardian/), 每周三、周日更新, 支持<a href="#subscribe">订阅</a>. 
 * [Nature - 周刊](03_nature), 每周六下午更新, 支持订阅
@@ -23,7 +23,7 @@
 * [考研英语题源分析，看看题目来自于哪里](https://zhuanlan.zhihu.com/p/25051680)
 * [2018英语外刊大合集](https://zhuanlan.zhihu.com/p/54181221)
 
-[te_audio]: https://github.com/hehonghui/the-economist-ebooks/wiki/te_audios_2020
+[te_audio]: https://github.com/hehonghui/the-economist-ebooks/wiki/te_audios_2021
 
 ## 一、如何手动下载
 
