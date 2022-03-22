@@ -8,7 +8,7 @@
 </a>
 
 * <img align="center" src="https://ereader.link/images/ereader.png" width="32px" /> 英阅阅读器 - 超好用的英语阅读神器, 可阅读海量英文小说、外刊杂志( 经济学人、纽约客等),支持点击查词、句子翻译、mdict英汉-英英词典、阅读笔记等功能,[iOS版下载](https://apps.apple.com/cn/app/ereader-%E8%8B%B1%E9%98%85%E9%98%85%E8%AF%BB%E5%99%A8/id1558805880)、[Android版下载](https://www.coolapk.com/apk/283424);
-* <img align="center" src="http://image.coolapk.com/apk_logo/2021/0626/21/music_icon_new-285755-o_1f9497fmip02h8i1hhfrdj1g8pr-uid-6320765@196x196.png" width="32px" /> 英语静听-畅听英文有声书、考试真题听力、VOA英语,[点击这里下载iOS版](https://apps.apple.com/cn/app/%E8%8B%B1%E8%AF%AD%E9%9D%99%E5%90%AC-%E7%95%85%E5%90%AC%E8%8B%B1%E6%96%87%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%9C%9F%E9%A2%98%E5%90%AC%E5%8A%9B/id1576665276)、[点击这里下载Android版](https://www.coolapk.com/apk/285755) ;
+* <img align="center" src="http://image.coolapk.com/apk_logo/2021/0626/21/music_icon_new-285755-o_1f9497fmip02h8i1hhfrdj1g8pr-uid-6320765@196x196.png" width="32px" /> 英语静听-畅听英文有声书(《哈利波特》等)、考试真题听力、VOA英语,[点击这里下载iOS版](https://apps.apple.com/cn/app/%E8%8B%B1%E8%AF%AD%E9%9D%99%E5%90%AC-%E7%95%85%E5%90%AC%E8%8B%B1%E6%96%87%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%9C%9F%E9%A2%98%E5%90%AC%E5%8A%9B/id1576665276)、[点击这里下载Android版](https://www.coolapk.com/apk/285755) ;
 
 ---------------------
 
