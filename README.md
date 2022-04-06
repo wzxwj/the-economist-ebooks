@@ -1,7 +1,7 @@
 # 经济学人、纽约客、自然、卫报等英语外刊杂志下载
 ---------------------
 
-## 一、阅读器推荐
+## 一、优质App推荐
 
 <a href="https://ereader.link/?utm_source=github&utm_medium=github&utm_campaign=github" target="_blank">
 <img src="https://pic2.zhimg.com/v2-2158f25799daf1cc82b8c88286d58709_1440w.jpg" width="640px"/>
